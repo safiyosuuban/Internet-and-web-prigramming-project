@@ -3,7 +3,7 @@
 A comprehensive full-stack personal portfolio web application built with **HTML5, CSS3, JavaScript, PHP, and MySQL** for the Internet and Web Programming course.
 
 ## 🚀 Live Demo
-> Deploy to InfinityFree, 000webhost, or run locally via XAMPP
+> Deploy to run locally via XAMPP
 
 ## ✨ Features
 
